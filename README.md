@@ -15,4 +15,10 @@
 
 ## Minhas Contribuições
 
-**Não tenho contribuições ainda porem estudo C# e Java, a linguagem Java iniciei um Bootcamp pela DIO e em breve terei concluído C# conheço pouco!!**
+**💻 Profissional em Início de Carreira | Análise e Desenvolvimento de Sistemas
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, em fase de construção da minha carreira na área de tecnologia. Possuo conhecimentos intermediários em C#, Banco de Dados SQL Server e linguagem SQL, além de noções sobre serviços em nuvem Microsoft Azure.
+
+Estou em busca da minha primeira oportunidade de estágio, onde possa aplicar na prática os conhecimentos adquiridos, desenvolver novas habilidades e contribuir com soluções eficientes para a equipe e para a empresa.
+
+Tenho facilidade para aprender, sou comprometido com resultados e estou motivado para crescer profissionalmente na área de desenvolvimento de software.**
