@@ -59,4 +59,4 @@ Confira meus repositórios para acompanhar minha evolução!
 ### 📫 Onde me encontrar
 
 - GitHub: [@CaioFernan](https://github.com/CaioFernan)
-- LinkedIn: [Adicionar link do LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/caiofernan/
