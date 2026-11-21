@@ -1,24 +1,62 @@
-# Olá eu sou o Caio!!
+# Olá! Eu sou o Caio Fernandes 👋
 
-![GitHub ](https://github-readme-stats.vercel.app/api?username=CaioFernan&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioFernan&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+💻 Tenho interesse em desenvolvimento de software, com foco em Back-end e no ecossistema Microsoft.
 
-## Hbilidades 
+Atualmente, estou aprofundando meus conhecimentos em C# e .NET, desenvolvendo projetos práticos para aprimorar minha lógica de programação e compreender melhor o desenvolvimento de aplicações web.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=70>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=80 /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height=80 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=80 />
+---
 
-      
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caiofernan/)[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/caiofernandes.n/)
+### 🚀 Tecnologias e ferramentas
 
-## Minhas Contribuições
+**Back-end**
+- C#
+- .NET / ASP.NET Core
+- APIs REST
 
-**💻 Profissional em Início de Carreira | Análise e Desenvolvimento de Sistemas
+**Banco de dados**
+- SQL
+- SQL Server
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, em fase de construção da minha carreira na área de tecnologia. Possuo conhecimentos intermediários em C#, Banco de Dados SQL Server e linguagem SQL, além de noções sobre serviços em nuvem Microsoft Azure.
+**Front-end**
+- HTML
+- CSS
+- JavaScript
 
-Estou em busca da minha primeira oportunidade de estágio, onde possa aplicar na prática os conhecimentos adquiridos, desenvolver novas habilidades e contribuir com soluções eficientes para a equipe e para a empresa.
+**Ferramentas e tecnologias em estudo**
+- Microsoft Azure
+- Docker
+- Git e GitHub
+- Linux
 
-Tenho facilidade para aprender, sou comprometido com resultados e estou motivado para crescer profissionalmente na área de desenvolvimento de software.**
+---
+
+### 📚 Atualmente estudando
+
+- Desenvolvimento de APIs com ASP.NET Core.
+- Programação Orientada a Objetos com C#.
+- Integração de aplicações com bancos de dados.
+- Conceitos de computação em nuvem com Azure.
+- Docker e conteinerização.
+
+---
+
+### 💡 Projetos
+
+Gosto de aprender colocando a mão na massa. Por isso, desenvolvo projetos pessoais para praticar e conhecer diferentes etapas da construção de sistemas.
+
+Meus projetos incluem estudos envolvendo:
+- APIs e aplicações com C# e .NET.
+- Integração com SQL Server.
+- Aplicações web com ASP.NET MVC.
+- Integração com serviços do Microsoft Azure.
+
+Confira meus repositórios para acompanhar minha evolução!
+
+---
+
+### 📫 Onde me encontrar
+
+- GitHub: [@CaioFernan](https://github.com/CaioFernan)
+- LinkedIn: [Adicionar link do LinkedIn]
